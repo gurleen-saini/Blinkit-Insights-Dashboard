@@ -64,3 +64,6 @@
     • Tier-Based Targeting: Enables regional marketing teams to target Tier 3 areas with the highest sales potential.
     • Outlet Strategy: Assists operations in scaling specific outlet types with strong ROI.
     • Customer Experience: Reveals how product type and outlet type affect customer ratings and product visibility.
+  
+  🖼️ Dashboard Preview
+  ![blinkit-sales-analysis-overview](https://github.com/user-attachments/assets/a706ee1c-6d52-4469-9c89-752eb9750e59)
